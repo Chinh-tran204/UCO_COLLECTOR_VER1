@@ -3,13 +3,16 @@ used oil collector machine, that have an ultra sonic sensor that measure the amo
 Sensor use: RCWL - 1670 sensor
 - Trigger and echo measure method
 - Having another function for UART conmmunicate sensor type in the device.py
+
 SIMCom module: A7680C
 - AT command handle
 - HandShake function for checking vailability of the SIMCom
 - HTPP_GET and HTTP_POST
+
 Deep Sleep handle
 - Wake Up button trigger and interupt handle
 - RTC WakeUp and Function to handle arlarm set up and time setting and time getting function
+
 One button handle:
 - Wake Up fucntion
 - Openning function
